@@ -3,6 +3,7 @@
 //2.If there are validations so that object will not be created if there is invalid cases.
 //3.If you want to create immutable classes.
 //Ex : Idle to add configurations since there will be so many attributes.
+
 public class Student {
     private int studentNo;
     private String name;
