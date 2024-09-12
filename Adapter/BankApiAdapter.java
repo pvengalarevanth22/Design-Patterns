@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface BankApiAdapter {
+public interface BankApiAdapter {
+    void getBalance();
 }
